@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "path": "delete-resources" },
+    { "path": "delete-namespace" }
+  ]
+}

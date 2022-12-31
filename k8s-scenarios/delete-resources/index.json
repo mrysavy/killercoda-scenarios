@@ -1,0 +1,33 @@
+{
+  "title": "Kubernetes resources deleting",
+  "description": "LAB showing kubernetes resources deleting background [Czech]",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Owner Reference",
+        "text": "step1.md"
+      },
+      {
+        "title": "Garbage Collector",
+        "text": "step2.md"
+      },
+      {
+        "title": "Finalizer",
+        "text": "step3.md"
+      },
+      {
+        "title": "API Services",
+        "text": "step4.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
