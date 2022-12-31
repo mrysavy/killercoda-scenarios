@@ -1,0 +1,17 @@
+{
+  "title": "Kubernetes namespace deleting",
+  "description": "LAB showing why it is not good idea to remove finalizer from namespace [Czech]",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
