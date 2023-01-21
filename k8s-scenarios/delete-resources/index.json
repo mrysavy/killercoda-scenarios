@@ -21,6 +21,11 @@
       {
         "title": "API Services",
         "text": "step4.md"
+      },
+      {
+        "title": "Prepare ArgoCD",
+        "background": "install_argocd.sh",
+        "foreground": "install_argocd_wait.sh"
       }
     ],
     "finish": {
